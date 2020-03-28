@@ -1,4 +1,5 @@
 # Telegram Chat Bot :thinking:
+------
 
 #### First of all the username for my telegram bot is: `bot_friend_insane_amazing_bot` :sweat_drops: 
    ##### Type the above in telegram search box :sunglasses:
