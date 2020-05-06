@@ -3,7 +3,7 @@
 
 ### First of all the username for my telegram bot is: `bot_friend_insane_amazing_bot` :sweat_drops: 
    #### Link to my bot https://t.me/bot_friend_insane_amazing_bot :sunglasses:
-   ##### Profile image <br> <img src="https://i.pinimg.com/736x/e3/3c/2f/e33c2fa94c03efa06678116f80d62d0d.jpg" alt="Smiley face" height="40" width="30">
+
 ![image](https://user-images.githubusercontent.com/53183532/77815334-fe9de500-70df-11ea-9783-b1651f13fef3.png)
 ## How to Use the chat Bot:-
 
