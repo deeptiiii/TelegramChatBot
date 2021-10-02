@@ -21,7 +21,7 @@ def make_reply(msg):
         reply = "what's up?"
     elif msg =="who are you":
         reply ="Navneet's bot"
-    elif msg =="what can you do?":
+    elif msg =="what can you do for you?":
         reply ="For now I am in development phase so idk fam."
     return reply
 
