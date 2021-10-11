@@ -11,7 +11,7 @@ def make_reply(msg):
         reply = "hey"
     elif msg =="Hey":
         reply = "what's up?"
-    elif msg =="Who are you":
+    elif msg =="Who are you??":
         reply ="Navneet's bot"
     elif msg =="What can you do?":
         reply ="For now I am in development phase so idk fam."
@@ -19,7 +19,7 @@ def make_reply(msg):
         reply = "hey"
     elif msg =="hey":
         reply = "what's up?"
-    elif msg =="who are you":
+    elif msg =="who are you??":
         reply ="Navneet's bot"
     elif msg =="what can you do for me?":
         reply ="For now I am in development phase so idk fam."
